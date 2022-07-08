@@ -1,0 +1,23 @@
+body{
+    background-color:pink;
+    color: red;
+}
+.heading{
+    width: 40%;
+    font-size: 30px;
+    font-family: 'Kaushan Script';
+}
+.design{
+    border: 3px ridge white;
+    width:30% ;
+    border-radius: 15px;
+}
+#webcam,#result{
+    border:5px groove black ;
+    width: 350px;
+    height: 300px;
+}
+#object,#accuray{
+    color: rgb(145, 145, 235);
+    font-family:'Pacifico' ;
+}
